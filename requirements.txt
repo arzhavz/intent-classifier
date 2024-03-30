@@ -1,0 +1,6 @@
+torch
+rich
+numpy
+nltk
+colorama
+datetime

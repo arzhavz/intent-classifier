@@ -1,0 +1,36 @@
+{
+	"intents": [
+		{
+			"tag": "<LANG>tag1:title.sub.sub",
+			"patterns": [
+				"Input 1",
+				"Input 2",
+				"Input 3"
+			],
+			"responses": [
+				"Response 1",
+				"Response 2",
+				"Response 3"
+			],
+			"context": [
+				"none"
+			]
+		},
+		{
+			"tag": "<LANG>tag2:title.sub.sub",
+			"patterns": [
+				"Input 1",
+				"Input 2",
+				"Input 3"
+			],
+			"responses": [
+				"Response 1",
+				"Response 2",
+				"Response 3"
+			],
+			"context": [
+				"none"
+			]
+		}
+	]
+}
